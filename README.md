@@ -13,7 +13,7 @@ The graphs include
 - Average Sales Price by Neighborhood
 - Top 10 Most Expensive Neighborhoods
 - Neighborhood Map where the size of the dot is avearge sales price and the color is average gross rent
-- Two parrallel charts
+- Two parallel charts
 - A sunburst chart
 
 The second Jupyter Note book, dashboard, defines the various graphs into functions.
