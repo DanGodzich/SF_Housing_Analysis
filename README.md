@@ -1,9 +1,9 @@
 # San Francisco Housing Analysis
 ## Looking at Sales Prices and Rents from 2010 through 2016
 
-This analysis is done in two seperate Jupyter Notebooks.
+This analysis is done in two separate Jupyter Notebooks.
 
-The first Jupyter Notebook,rental_analysis, analizes data 
+The first Jupyter Notebook,rental_analysis, analyzes data 
 from the years 2010 through 2016. Then the results are placed into graphs.
 The graphs include
 
